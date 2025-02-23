@@ -1,0 +1,1 @@
+The jso, qlearning_func and vfa_code are functions which will be called by run_all. Simply run the 'run_all' file. You will get 2 graphs, one of coverage and one of number of iterations for convergence. The code may take ~5 min to complete running. 
